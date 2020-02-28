@@ -1,0 +1,76 @@
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.topnav1 {
+	margin: auto;
+	text-align: center;
+	
+}
+
+.topnav1 .navcontainer1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+
+.navnumber {
+	float: left;
+	width: 200px:
+}
+
+.search-container {
+	float: right;
+	padding: 6px;
+}
+
+.navshopping {
+	float: right;
+	width: 200px;
+}
+
+.navmenu {
+	float: right;
+	width: 350px;
+}
+
+.topnav1 a {
+	float: left;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.topnav2 {
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+}
+
+.topnav2 .navcontainer2 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+
+.topnav2 a {
+	float: left;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.main_swiper {
+	margin-top: 175px;
+	margin-bottom: 1px;
+	margin-right: 0;
+	margin-left: 0;
+	padding-top: 226px;
+	padding-bottom: 226px;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-image: url(https://cdn.shopify.com/s/files/1/1634/8185/t/2/assets/slide3_image.jpg?v=12641487025129283819);
+	text-align: center;
+	background-size: contain;
+	color: white;
+}
